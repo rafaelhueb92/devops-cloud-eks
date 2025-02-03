@@ -11,3 +11,6 @@ terraform {
 provider "aws" {
   region = "us-east-1"
 }
+
+
+# You can insert the role arn to create the Iac
